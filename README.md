@@ -1,4 +1,4 @@
-<h3 align="center">erp<h3>
+<h3 align="center">era<h3>
 
 <p align="center">A simple backend service built with Express.Js</p>
 
